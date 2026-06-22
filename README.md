@@ -11,6 +11,10 @@ A fully responsive Reddit clone built as a Frontend Web Development project usin
 - 🌙 **Dark Mode** — Toggle between light and dark theme
 - 📱 **Fully Responsive** — Works on Mobile, Tablet, and Desktop
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live project](https://diksha-21-web.github.io/reddit-clone/)
+
 ## 🛠️ Technologies Used
 
 | Technology | Usage |
@@ -33,9 +37,10 @@ reddit-clone/
 ## 🖥️ How to Run
 
 1. Clone the repository:
- ```https://diksha-21-web.github.io/reddit-clone/
    ```
-3. Open `index.html` in your browser — no server needed!
+   git clone https://github.com/Diksha-21-web/reddit-clone.git
+   ```
+2. Open `index.html` in your browser — no server needed!
 
 ## 📸 Pages & Sections
 
