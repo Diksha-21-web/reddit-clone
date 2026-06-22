@@ -33,8 +33,7 @@ reddit-clone/
 ## 🖥️ How to Run
 
 1. Clone the repository:
-
-   ```https://diksha-21-web.github.io/reddit-clone/
+ ```https://diksha-21-web.github.io/reddit-clone/
    ```
 3. Open `index.html` in your browser — no server needed!
 
